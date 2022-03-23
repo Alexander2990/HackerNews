@@ -10,4 +10,4 @@ Application for reading articles from the Hacker News website. Used by SwiftUI. 
 
 Приложение для чтения статей с сайта Hacker News. Используется SwiftUI. Выводиться список самых популярных статей. Каждую новость можно открыть и прочитать в режиме веб-страницы.
 
-<img src="(https://user-images.githubusercontent.com/64682381/159754304-442b1f79-6de0-4a8d-a853-c9d23cddc50b.png" width="300">
+<img src="https://user-images.githubusercontent.com/64682381/159755050-01853eab-1e27-4e82-b9e5-0e6b07d06f28.png" width="300">
